@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ToDoJob</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="application_at">Sollicitatie bij</string>
+    <string name="only_alarm">Pas wekker aan</string>
+    <string name="add_alarm">Voeg wekker toe</string>
+    <string name="edit_alarm">bewerk alarm</string>
+    
+    <string name="delete_alarm">Verwijder wekker</string>
+    <string name="disable_notification">Schakel notificaties uit</string>
+    <string name="menu">Menu</string>
+    <string name="job_label">Job:</string>
+    <string name="place_label">Plaats:</string>
+     <string name="date_label">Datum:</string>
+     
+ <string name="add">Toevoegen</string>
+ <string name="update">-update</string>
+  <string name="edit">edit</string>
+  <string name="back">terug</string>
+
+ 
+</resources>

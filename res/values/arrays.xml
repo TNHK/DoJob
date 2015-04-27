@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="nav_drawer_items">
+        <item>Home</item>
+        <item>Add Task</item>
+        <item>Settings</item>
+        <item>Help</item>
+        <item>Custom Note</item>
+        <item>Feedback</item>
+        <item>Notification</item>
+    </string-array>
+    <!--
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_people</item>
+        <item>@drawable/ic_communities</item>
+        <item>@drawable/ic_pages</item>
+        <item>@drawable/custom</item>
+        <item>@drawable/feedback</item>
+        <item>@drawable/megaphone</item>
+    </array>
+    -->
+    <string-array name="days">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+    <string-array name="years">
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+    </string-array>
+    <string-array name="months">
+        <item>januari</item>
+        <item>februari</item>
+        <item>maart</item>
+        <item>april</item>
+        <item>mei</item>
+        <item>juni</item>
+        <item>juli</item>
+        <item>augustus</item>
+        <item>september</item>
+        <item>october</item>
+        <item>november</item>
+        <item>december</item>
+    </string-array>
+    <string-array name="hours">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+    </string-array>
+    <string-array name="minutes">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+    </string-array>
+
+    <!--
+    <array name="grid_view_icons">
+        <item>@drawable/add_list</item>
+        <item>@drawable/organization</item>
+        <item>@drawable/hat</item>
+        <item>@drawable/broom</item>
+        <item>@drawable/classroom</item>
+        <item>@drawable/dining_room</item>
+        <item>@drawable/exercise</item>
+    </array>
+    -->
+    <string-array name="add_activity_category">
+        <item>Work</item>
+        <item>Party</item>
+        <item>Cleaning</item>
+        <item>Courses</item>
+        <item>Cooking</item>
+        <item>Exercise</item>
+    </string-array>
+    <string-array name="grid_view_items">
+        <item>Add Activity</item>
+        <item>Work</item>
+        <item>Party</item>
+        <item>Cleaning</item>
+        <item>Courses</item>
+        <item>Cooking</item>
+        <item>Exercise</item>
+    </string-array>
+
+    
+    
+    
+</resources>
